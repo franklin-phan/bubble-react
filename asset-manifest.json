@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bubble-react/static/css/main.05c19ba6.chunk.css",
+    "main.js": "/bubble-react/static/js/main.5cc71193.chunk.js",
+    "main.js.map": "/bubble-react/static/js/main.5cc71193.chunk.js.map",
+    "runtime-main.js": "/bubble-react/static/js/runtime-main.446ee338.js",
+    "runtime-main.js.map": "/bubble-react/static/js/runtime-main.446ee338.js.map",
+    "static/js/2.5671dac2.chunk.js": "/bubble-react/static/js/2.5671dac2.chunk.js",
+    "static/js/2.5671dac2.chunk.js.map": "/bubble-react/static/js/2.5671dac2.chunk.js.map",
+    "index.html": "/bubble-react/index.html",
+    "precache-manifest.c5722679663cef768a522bd70a57a180.js": "/bubble-react/precache-manifest.c5722679663cef768a522bd70a57a180.js",
+    "service-worker.js": "/bubble-react/service-worker.js",
+    "static/css/main.05c19ba6.chunk.css.map": "/bubble-react/static/css/main.05c19ba6.chunk.css.map",
+    "static/js/2.5671dac2.chunk.js.LICENSE.txt": "/bubble-react/static/js/2.5671dac2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.446ee338.js",
+    "static/js/2.5671dac2.chunk.js",
+    "static/css/main.05c19ba6.chunk.css",
+    "static/js/main.5cc71193.chunk.js"
+  ]
+}
